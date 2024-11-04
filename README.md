@@ -1,4 +1,4 @@
-Corso "Aspectos básicos de Android con Compose"
+Curso «Aspectos básicos de Android con Compose».
 
-La cartella "GreetingCard" contiene il codice degli esercizi "Create your first Android app" e "Run your first app on the Android Emulator" della sezione "Configuración de Android Studio".
-La cartella "HappyBirthday" contiene il codice degli esercizi "Compila una app simple con elementos de texto que admiten composición" e "Cómo agregar imágenes a tu app para Android" della sezione "Crea un diseño básico".
+La carpeta «GreetingCard» contiene el código de los ejercicios «Create your first Android app» y «Run your first app on the Android Emulator» de la sección «Configuración de Android Studio».
+La carpeta «HappyBirthday» contiene el código de los ejercicios «Compila una app simple con elementos de texto que admiten composición» y «Cómo agregar imágenes a tu app para Android» de la sección «Crea un diseño básico».
